@@ -1,2 +1,1 @@
-# Data_handler_tradingbot
- 
+Data filterer and txt-converter for historical stock data.  
